@@ -1,0 +1,8 @@
+
+
+cd fbi
+pip2 install -r requirements.txt
+chmod 777  fbi.py
+
+‏python2 fbi.py
+‏pkg install python2-dev python2 git -y
